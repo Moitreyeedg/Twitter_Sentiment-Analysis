@@ -3,9 +3,19 @@ I have picked up a very recent and controversial social issue in India created b
 "Tweet_padmavat.csv" has all the data required for this challenge. we scrapped using query serch '#Padmavat" using Twitter' Official API. This has a limitation that more than week's old tweet can't be extracted.
 Therefore, we have scrapped a thousand tweets for the prototype model while working on the big data set already scrapped using Python and saved as Tweet.csv for later use.
 
+# Objectives-
+Our objective is to -
+1.	Categorising Tweeter text to Positive/Negative/Neutral sentiment and categorising words to find out the cause behind the negative sentiments.
+2.	A Demographic information from other social media/available Dataset would be added to generate the insight of demographic influence (if any).
+3.	Analysing extensively with multiple classification models like Gaussian Naïve Bayes, Decision Tree, logistics regression etc. to understand and use the best suitable one.
+4.	Measure the model accuracy with confusion matrix and cross validation.
+5.	Provide a time series analysis to generate the insight about how Sentiment changes over a period of time.
+6.	Create Word cloud and geo-interactive maps to provide great visualization. 
+
+
 # Files 
 1. credentials.txt holds :
-  CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_SECRET
+  CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_SECRET (Credentials are supposed to kept, therefore this file is not uploaded here)
   
 2. "Tweet_padmavat.csv" holds all the data we scrapped.
 3. Tweet.csv (4.5 MB), more than 20k tweets from july,2017 till date.
