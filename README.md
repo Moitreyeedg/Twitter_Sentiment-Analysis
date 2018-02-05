@@ -18,9 +18,10 @@ Our objective is to -
   CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_SECRET (Credentials are supposed to kept, therefore this file is not uploaded here)
   
 2. "Tweet_padmavat.csv" holds all the data we scrapped.
-3. Tweet.csv (4.5 MB), more than 20k tweets from july,2017 till date.
+3. Tweet.csv (4.5 MB), more than 20k tweets from july,2017 till date, I have done data cleaning, stop word processing and sentiment classification on this file.
 4. "time_series_retweet.png:" Time Series Analysis for #retweet
 5. "time_series_retweetvslikes" : Time Series Analysis of #retweet vs. Likes
+6.
 
 # Analysis Plan
 
