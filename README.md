@@ -39,4 +39,5 @@ We would like to generate some insights from these tweets.
 sentiment or not applicable). The sentiment Positive/Negative/Neutral/NA will be provided against the tweet. 
 2. Categorized words from the tweets. 
 3. Details of algorithm used. 
-4. Geolocation and interactive maps to identify regional inclination of positive or negative sentiments.
+4. Word Cloud.
+5. Geolocation and interactive maps to identify regional inclination of positive or negative sentiments.
