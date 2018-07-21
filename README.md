@@ -3,6 +3,8 @@ I have picked up a very recent and controversial social issue in India created b
 "Tweet_padmavat.csv" has all the data required for this challenge. we scrapped using query serch '#Padmavat" using Twitter' Official API. This has a limitation that more than week's old tweet can't be extracted.
 Therefore, we have scrapped a thousand tweets for the prototype model while working on the big data set already scrapped using Python and saved as Tweet.csv for later use.
 
+# Please Note that I have shared here the initial code for Data Scrapping from Twitter, Data Cleaning, Data Visialisation, Time Series Analysis of Twitter Data and Sentiment Analysis using Text Blob. For further code of Model training, tuning and test validation, please drop a comment with your mail id.
+
 # Objectives-
 Our objective is to -
 1.	Categorising Tweeter text to Positive/Negative/Neutral sentiment and categorising words to find out the cause behind the negative sentiments.
